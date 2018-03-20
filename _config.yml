@@ -3,7 +3,7 @@ show_downloads: true
 google_analytics:
 title: Summarize PDF file
 description: Extract highlighted text from a PDF file and save in new PDF file
-favicon: sicon_1616.ico
+favicon: "img/sicon_1616.ico"
 # use a logo image in your nav bar.
 use_logo: true
 # logo image to use. logo images are constrained at 50px in height.
