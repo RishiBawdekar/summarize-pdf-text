@@ -18,7 +18,7 @@ The project is under MIT License.
 
 ## HOW TO USE THIS SOFTWARE?
 
-1. Download and install [Foxit Reader] (https://www.foxitsoftware.com/pdf-reader/)
+1. Download and install Foxit Reader (https://www.foxitsoftware.com/pdf-reader/)
 2. After completing installion, open any PDF file in Foxit Reader.
 3. Click on *File* in menu bar and then click on *Preferences*.
 4. Click on *Commenting* and under *Making Comments* tick *Copy selected text into Highlight, Squiggly, Underline and Strikeout comment popups*.
