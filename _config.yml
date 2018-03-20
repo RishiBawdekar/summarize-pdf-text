@@ -3,4 +3,6 @@ show_downloads: true
 google_analytics:
 title: Summarize PDF file
 description: Extract highlighted text from a PDF file and save in new PDF file
-favicon: img/sicon_1616.ico
+favicon: img/sicon_1616.png
+logo: img/sicon_1616.png
+use_logo: true
