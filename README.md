@@ -23,7 +23,7 @@ The project is under MIT License.
 3. Click on *File* in menu bar and then click on *Preferences*.
 4. Click on *Commenting* and under *Making Comments* tick *Copy selected text into Highlight, Squiggly, Underline and Strikeout comment popups*.
 5. Click on *OK*.
-6. Download SummarizePDF software. The *lib* folder in *dist* folder contains JAVA libraries needed by the software file *SummarizePDF.jar* to function. Hence, you must always run the software file in the same directory as that of *lib* folder. You can create a shortcut for *SummarizePDF.jar* and move it whatever location on your computer.
+6. Download the zip file and extract contents. The *lib* folder in *dist* folder contains JAVA libraries needed by the software file *SummarizePDF.jar* to function. Hence, you must always run the software file in the same directory as that of *lib* folder. You can create a shortcut for *SummarizePDF.jar* and move it whatever location on your computer.
 7. Click on *SummarizePDF.jar* or the shortcut file.
 8. In the GUI, click on *Choose File* to select the PDF file.
 9. The path of the selected file is shown and the name of the summary file is also shown. The name can be edited.
