@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 show_downloads: true
 google_analytics:
+title: Summarize PDF file
+description: Extract highlighted text from a PDF file and save in new PDF file
