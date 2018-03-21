@@ -1,6 +1,6 @@
 # SUMMARIZE PDF FILES
 
-Imagine you are reading a 10 page document such as a research paper or an agreement and that you have highlighted few important points in the document. This program allows you to extract those important points and save it as a new PDF file. This software also comes handy if you are reading a technical book - you can summarize definitions in a single PDF file!
+Imagine you are reading a 100 pages e-book and that you have highlighted few important points in the entire book. This program allows you to extract those important points and save it as a new PDF file. For instance, you can summarize definitions in a single PDF file!
 
 ## WHY THIS SOFTWARE?
 
@@ -34,5 +34,5 @@ The project is under MIT License.
 
 ## KNOWN ISSUES
 
-1. The software only works on text - tables and images are not supported.
+1. The software only works on text - tables, images, mathematical equations and special characters are not supported.
 2. The software does not work with Adode Reader DC.
